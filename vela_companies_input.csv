@@ -1,0 +1,81 @@
+name,country,is_software,is_b2b,founded_year,product_desc,vertical,num_competitors,customer_count,revenue_concentration,founder_background,employee_count,registry_revenue,pricing_model,g2_long_tenure,recent_funding,founder_age_signal
+HealthcareCore01,Vietnam,TRUE,TRUE,2008,"Phan mem quan ly benh an va lich hen, dung hang ngay trong van hanh phong kham",Healthcare,3,150,low,12 nam trong nganh truoc khi lap cong ty,8,1800000,freemium,TRUE,FALSE,senior
+ConstructionPro02,Thailand,TRUE,TRUE,2008,Phan mem quan ly du an xay dung va tien do cong trinh,Construction,12,30,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",,,one_time,TRUE,FALSE,young
+PharmaHub03,Thailand,TRUE,TRUE,2006,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,2,200,med,12 nam trong nganh truoc khi lap cong ty,30,,hybrid,TRUE,FALSE,young
+RealHub04,Vietnam,TRUE,TRUE,2007,Phan mem quan ly bat dong san va giao dich cho moi gioi,Real Estate,5,200,low,Cuu bac si 15 nam roi lap cong ty,30,2400000,subscription,FALSE,FALSE,mid
+EducationCore05,Malaysia,TRUE,TRUE,2007,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,5,200,med,Chuyen gia nganh hon 8 nam,30,,subscription,TRUE,FALSE,senior
+PharmaSys06,Philippines,TRUE,TRUE,2011,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,20,150,med,Cuu bac si 15 nam roi lap cong ty,8,,freemium,FALSE,FALSE,
+RealPro07,Indonesia,TRUE,TRUE,2013,Phan mem quan ly bat dong san va giao dich cho moi gioi,Real Estate,3,200,low,12 nam trong nganh truoc khi lap cong ty,110,,subscription,,FALSE,mid
+HRSys08,Singapore,TRUE,TRUE,2006,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,40,30,low,Chuyen gia nganh hon 8 nam,15,,freemium,TRUE,TRUE,young
+LegalPlus09,Thailand,TRUE,TRUE,2006,Phan mem quan ly ho so va vu viec cho cong ty luat,Legal,5,55,low,12 nam trong nganh truoc khi lap cong ty,8,,subscription,TRUE,FALSE,mid
+RealPro10,Singapore,TRUE,TRUE,2014,Phan mem quan ly bat dong san va giao dich cho moi gioi,Real Estate,40,55,high,Cuu bac si 15 nam roi lap cong ty,22,,one_time,TRUE,TRUE,mid
+AgricultureHub11,Vietnam,TRUE,TRUE,2008,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,20,55,low,Cuu bac si 15 nam roi lap cong ty,110,2100000,subscription,FALSE,FALSE,senior
+LegalHub12,Malaysia,TRUE,TRUE,2011,Phan mem quan ly ho so va vu viec cho cong ty luat,Legal,2,55,high,Chuyen gia nganh hon 8 nam,70,,freemium,TRUE,FALSE,senior
+F&BFlow13,Vietnam,TRUE,TRUE,2005,Phan mem quan ly chuoi nha hang va dat ban,F&B,4,30,low,Cuu bac si 15 nam roi lap cong ty,70,3000000,one_time,FALSE,,senior
+HRCore14,Thailand,TRUE,TRUE,2008,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,12,55,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",110,,subscription,FALSE,FALSE,young
+HRSys15,Thailand,TRUE,TRUE,2014,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,12,80,med,Cuu bac si 15 nam roi lap cong ty,45,,subscription,TRUE,FALSE,senior
+F&BFlow16,Singapore,TRUE,TRUE,2014,Phan mem quan ly chuoi nha hang va dat ban,F&B,8,150,,Chuyen gia nganh hon 8 nam,,,subscription,TRUE,FALSE,mid
+LogisticsPro17,Vietnam,TRUE,TRUE,2017,Phan mem dieu phoi xe va theo doi don hang cho cong ty logistics,Logistics,4,120,med,Cuu bac si 15 nam roi lap cong ty,15,2400000,subscription,FALSE,FALSE,young
+DentalPro18,Singapore,TRUE,TRUE,2019,"Phan mem quan ly phong kham nha khoa, dung trong van hanh hang ngay",Dental,4,,med,Chuyen gia nganh hon 8 nam,110,,subscription,FALSE,FALSE,senior
+AccountingCore19,Malaysia,TRUE,TRUE,2019,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,5,,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",110,,freemium,FALSE,FALSE,mid
+HealthcareSys20,Indonesia,TRUE,TRUE,2017,"Phan mem quan ly benh an va lich hen, dung hang ngay trong van hanh phong kham",Healthcare,20,80,med,Cuu bac si 15 nam roi lap cong ty,45,,subscription,TRUE,TRUE,young
+AccountingOne21,Singapore,TRUE,TRUE,2013,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,12,150,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",70,,one_time,FALSE,FALSE,mid
+PharmaCore22,Vietnam,TRUE,TRUE,2016,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,2,80,high,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",30,,freemium,FALSE,FALSE,young
+LogisticsHub23,Thailand,TRUE,TRUE,2018,Phan mem dieu phoi xe va theo doi don hang cho cong ty logistics,Logistics,8,55,,12 nam trong nganh truoc khi lap cong ty,45,,subscription,FALSE,TRUE,mid
+ManufacturingSoft24,Vietnam,TRUE,TRUE,2019,Phan mem quan ly san xuat va ton kho cho nha may,Manufacturing,3,120,,12 nam trong nganh truoc khi lap cong ty,8,,one_time,FALSE,FALSE,young
+DentalPlus25,Philippines,TRUE,TRUE,2014,"Phan mem quan ly phong kham nha khoa, dung trong van hanh hang ngay",Dental,40,120,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",45,,subscription,TRUE,FALSE,mid
+EducationPro26,Vietnam,TRUE,TRUE,2014,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,5,30,med,,110,2100000,freemium,TRUE,TRUE,senior
+GovernmentOne27,Indonesia,TRUE,TRUE,2019,Phan mem quan ly thu tuc hanh chinh cho co quan nha nuoc,Government,20,150,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",8,,one_time,TRUE,TRUE,mid
+LogisticsOne28,Vietnam,TRUE,TRUE,2014,Phan mem dieu phoi xe va theo doi don hang cho cong ty logistics,Logistics,4,30,med,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",30,,one_time,TRUE,TRUE,mid
+GovernmentSoft29,Vietnam,TRUE,TRUE,2019,Phan mem quan ly thu tuc hanh chinh cho co quan nha nuoc,Government,5,30,low,Cuu bac si 15 nam roi lap cong ty,15,2100000,hybrid,TRUE,TRUE,senior
+PharmaSoft30,Vietnam,TRUE,TRUE,2015,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,20,120,,12 nam trong nganh truoc khi lap cong ty,110,,freemium,FALSE,FALSE,young
+HealthcareOne31,Thailand,TRUE,TRUE,2019,"Phan mem quan ly benh an va lich hen, dung hang ngay trong van hanh phong kham",Healthcare,40,30,med,Chuyen gia nganh hon 8 nam,30,,freemium,TRUE,TRUE,mid
+AccountingHub32,Indonesia,TRUE,TRUE,2019,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,3,80,low,Chuyen gia nganh hon 8 nam,30,,subscription,TRUE,FALSE,young
+ConstructionSoft33,Vietnam,TRUE,TRUE,,Phan mem quan ly du an xay dung va tien do cong trinh,Construction,40,150,high,,,3000000,subscription,TRUE,,young
+InsuranceFlow34,Vietnam,TRUE,TRUE,2010,Phan mem quan ly hop dong bao hiem cho dai ly,Insurance,8,,low,,45,,,FALSE,,young
+LogisticsHub35,Vietnam,TRUE,TRUE,2010,Phan mem dieu phoi xe va theo doi don hang cho cong ty logistics,Logistics,4,,,,70,,,TRUE,,
+HealthcareCore36,Vietnam,TRUE,TRUE,2012,"Phan mem quan ly benh an va lich hen, dung hang ngay trong van hanh phong kham",Healthcare,20,,,,,1800000,one_time,FALSE,,
+PharmaOne37,Vietnam,TRUE,TRUE,2010,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,2,150,low,12 nam trong nganh truoc khi lap cong ty,,,subscription,,,young
+ConstructionSoft38,Vietnam,TRUE,TRUE,,Phan mem quan ly du an xay dung va tien do cong trinh,Construction,8,200,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",,,subscription,FALSE,FALSE,
+EducationCore39,Vietnam,TRUE,TRUE,2010,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,40,,high,,,,one_time,FALSE,,young
+PharmaSoft40,Vietnam,TRUE,TRUE,2010,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,4,,high,12 nam trong nganh truoc khi lap cong ty,,,one_time,TRUE,,senior
+AccountingOne41,Vietnam,TRUE,TRUE,2012,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,20,,,,,,freemium,TRUE,,
+AccountingPlus42,Vietnam,TRUE,TRUE,2012,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,5,,,,,,subscription,TRUE,,senior
+HRSys43,Vietnam,TRUE,TRUE,2012,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,4,120,,,30,,subscription,TRUE,,senior
+ConstructionOne44,Vietnam,TRUE,TRUE,2010,Phan mem quan ly du an xay dung va tien do cong trinh,Construction,8,,med,Chuyen gia nganh hon 8 nam,,,hybrid,FALSE,FALSE,
+InsuranceHub45,Vietnam,TRUE,TRUE,2012,Phan mem quan ly hop dong bao hiem cho dai ly,Insurance,20,120,,,,3000000,subscription,,,
+ManufacturingPro46,Vietnam,TRUE,TRUE,,Phan mem quan ly san xuat va ton kho cho nha may,Manufacturing,8,80,high,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",,,hybrid,TRUE,FALSE,senior
+AgricultureSys47,Singapore,TRUE,TRUE,2014,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,3,200,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",8,,,,,
+EducationPro48,Singapore,TRUE,TRUE,2010,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,3,150,low,12 nam trong nganh truoc khi lap cong ty,70,,,TRUE,,
+AccountingCore49,Singapore,TRUE,TRUE,2014,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,8,120,low,Chuyen gia nganh hon 8 nam,30,,,,,
+ManufacturingSoft50,Singapore,TRUE,TRUE,2015,Phan mem quan ly san xuat va ton kho cho nha may,Manufacturing,8,55,med,12 nam trong nganh truoc khi lap cong ty,70,,,,,
+F&BPro51,Singapore,TRUE,TRUE,2009,Phan mem quan ly chuoi nha hang va dat ban,F&B,8,80,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",22,,hybrid,TRUE,,mid
+LegalSys52,Singapore,TRUE,TRUE,2010,Phan mem quan ly ho so va vu viec cho cong ty luat,Legal,5,200,high,,,,,,,mid
+AccountingSys53,Singapore,TRUE,TRUE,2011,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,40,30,med,12 nam trong nganh truoc khi lap cong ty,70,,,,,
+AgriculturePro54,Singapore,TRUE,TRUE,2014,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,40,80,high,12 nam trong nganh truoc khi lap cong ty,,,,,,mid
+DentalFlow55,Singapore,TRUE,TRUE,2009,"Phan mem quan ly phong kham nha khoa, dung trong van hanh hang ngay",Dental,12,150,,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",8,,,,TRUE,senior
+AgriculturePro56,Singapore,TRUE,TRUE,2011,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,3,150,low,12 nam trong nganh truoc khi lap cong ty,15,,,TRUE,,
+ConsumerSoft57,Vietnam,TRUE,FALSE,2020,App tien ich cho nguoi tieu dung ca nhan,Consumer,5,,low,12 nam trong nganh truoc khi lap cong ty,,,subscription,TRUE,FALSE,senior
+ConsumerPlus58,Vietnam,TRUE,FALSE,2015,App tien ich cho nguoi tieu dung ca nhan,Consumer,20,120,high,,8,3000000,,TRUE,TRUE,mid
+ConsumerOne59,Indonesia,TRUE,FALSE,2016,App tien ich cho nguoi tieu dung ca nhan,Consumer,3,200,low,12 nam trong nganh truoc khi lap cong ty,110,,one_time,TRUE,TRUE,senior
+ConsumerSys60,Malaysia,TRUE,FALSE,2016,App tien ich cho nguoi tieu dung ca nhan,Consumer,3,,med,Cuu bac si 15 nam roi lap cong ty,45,,subscription,FALSE,FALSE,
+ConsumerFlow61,Indonesia,TRUE,FALSE,2016,App tien ich cho nguoi tieu dung ca nhan,Consumer,5,55,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",,,hybrid,TRUE,TRUE,young
+ConsumerPro62,Indonesia,TRUE,FALSE,2019,App tien ich cho nguoi tieu dung ca nhan,Consumer,8,,low,,70,,,FALSE,FALSE,senior
+ConsumerSoft63,Thailand,TRUE,FALSE,2017,App tien ich cho nguoi tieu dung ca nhan,Consumer,4,,low,Chuyen gia nganh hon 8 nam,30,,subscription,TRUE,FALSE,young
+ConsumerHub64,Indonesia,TRUE,FALSE,2021,App tien ich cho nguoi tieu dung ca nhan,Consumer,2,,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",,,one_time,TRUE,FALSE,young
+InsuranceSoft65,Vietnam,TRUE,TRUE,2023,Phan mem quan ly hop dong bao hiem cho dai ly,Insurance,12,150,high,Chuyen gia nganh hon 8 nam,,1800000,hybrid,FALSE,TRUE,senior
+AgricultureOne66,Vietnam,TRUE,TRUE,2024,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,3,120,med,,,,freemium,TRUE,TRUE,
+AgriculturePro67,Indonesia,TRUE,TRUE,2024,Phan mem quan ly chuoi cung ung nong san cho doanh nghiep,Agriculture,4,,high,Chuyen gia nganh hon 8 nam,45,,freemium,FALSE,,mid
+PharmaSoft68,Indonesia,TRUE,TRUE,2023,Phan mem quan ly kho va phan phoi cho chuoi nha thuoc,Pharma Distribution,3,80,,,110,,subscription,FALSE,TRUE,young
+HRHub69,Malaysia,TRUE,TRUE,2023,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,40,,low,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",8,,,FALSE,FALSE,young
+HRCore70,Thailand,TRUE,TRUE,2023,Phan mem quan ly nhan su va tinh luong cho doanh nghiep,HR Tech,20,80,low,,8,,one_time,FALSE,TRUE,
+AccountingCore71,Vietnam,FALSE,TRUE,2018,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,20,55,low,Chuyen gia nganh hon 8 nam,22,,,FALSE,,mid
+AccountingPlus72,Singapore,FALSE,TRUE,2011,Phan mem ke toan va quan ly tai chinh doanh nghiep,Accounting,5,55,med,Cuu bac si 15 nam roi lap cong ty,45,,,TRUE,,mid
+EducationPlus73,Vietnam,FALSE,TRUE,2008,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,5,120,high,12 nam trong nganh truoc khi lap cong ty,110,,subscription,FALSE,FALSE,mid
+EducationHub74,Philippines,FALSE,TRUE,2017,"Phan mem quan ly truong hoc, cot loi cho van hanh dao tao",Education,4,,high,Cuu bac si 15 nam roi lap cong ty,45,,,TRUE,,
+HorizontalFlow75,Singapore,TRUE,TRUE,2018,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,20,,,,8,,subscription,,,mid
+HorizontalPlus76,Malaysia,TRUE,TRUE,2021,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,2,,low,,22,,,,,senior
+HorizontalHub77,Malaysia,TRUE,TRUE,2019,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,8,,,,70,,,,,mid
+HorizontalFlow78,Vietnam,TRUE,TRUE,2020,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,12,,low,,22,,subscription,,,senior
+HorizontalSoft79,Vietnam,TRUE,TRUE,2020,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,2,80,high,,110,2100000,,TRUE,,
+HorizontalOne80,Philippines,TRUE,TRUE,2020,"Tien ich nho ho tro cong viec, khach hay dung kem Excel",Horizontal utility,4,,med,"Cuu giam doc van hanh nganh, 10 nam kinh nghiem",70,,,,,

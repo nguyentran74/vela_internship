@@ -1,0 +1,81 @@
+﻿Ten cong ty,Quoc gia,Nganh (vertical),Tier,Diem/Priority,Coverage,Confidence,Tieu chi thieu,Hanh dong de xuat,Ghi chu
+F&BFlow16,Singapore,F&B,A,92/100,87%,Trung binh,"A3b, B1",Tiep can ngay,92/100 (coverage 87%)
+RealPro07,Indonesia,Real Estate,A,92/100,85%,Trung binh,B3,Tiep can ngay,92/100 (coverage 85%)
+EducationCore05,Malaysia,Education,A,91/100,100%,Trung binh,,Tiep can ngay,91/100 (coverage 100%)
+HRSys15,Thailand,HR Tech,A,91/100,100%,Trung binh,,Tiep can ngay,91/100 (coverage 100%)
+F&BPro51,Singapore,F&B,A,88/100,85%,Trung binh,"B4, C2",Tiep can ngay,88/100 (coverage 85%)
+DentalPlus25,Philippines,Dental,A,85/100,100%,Trung binh,,Tiep can ngay,85/100 (coverage 100%)
+LegalPlus09,Thailand,Legal,A,84/100,100%,Trung binh,,Tiep can ngay,84/100 (coverage 100%)
+RealHub04,Vietnam,Real Estate,A,83/100,100%,Trung binh,,Tiep can ngay,83/100 (coverage 100%)
+AgricultureHub11,Vietnam,Agriculture,A,83/100,100%,Trung binh,,Tiep can ngay,83/100 (coverage 100%)
+HealthcareCore01,Vietnam,Healthcare,A,81/100,100%,Trung binh,,Tiep can ngay,81/100 (coverage 100%)
+LegalHub12,Malaysia,Legal,A,81/100,100%,Trung binh,,Tiep can ngay,81/100 (coverage 100%)
+AccountingPlus42,Vietnam,Accounting,B-ready,97/100,65%,Trung binh,"A3a, A3b, A4, B1, B4, C2",Tiep can sau nhom A,97/100 (coverage 65%)
+EducationPro48,Singapore,Education,B-ready,96/100,70%,Trung binh,"B2, B4, C2",Tiep can sau nhom A,96/100 (coverage 70%)
+HRSys43,Vietnam,HR Tech,B-ready,91/100,77%,Trung binh,"A3b, A4, B4, C2",Tiep can sau nhom A,91/100 (coverage 77%)
+AgriculturePro56,Singapore,Agriculture,B-ready,90/100,70%,Trung binh,"B2, B4, C2",Tiep can sau nhom A,90/100 (coverage 70%)
+ConstructionSoft33,Vietnam,Construction,B-ready,87/100,70%,Trung binh,"A4, B4, C1, C2",Tiep can sau nhom A,87/100 (coverage 70%)
+ConstructionSoft38,Vietnam,Construction,B-ready,83/100,65%,Trung binh,"B1, B4, C1, C2",Tiep can sau nhom A,83/100 (coverage 65%)
+ManufacturingPro46,Vietnam,Manufacturing,B-ready,83/100,75%,Trung binh,"B1, B4, C1",Tiep can sau nhom A,83/100 (coverage 75%)
+DentalPro18,Singapore,Dental,B-ready,79/100,98%,Trung binh,A3a,Tiep can sau nhom A,79/100 (coverage 98%)
+PharmaSoft40,Vietnam,Pharma Distribution,B-ready,78/100,73%,Trung binh,"A3a, B1, B4, C2",Tiep can sau nhom A,78/100 (coverage 73%)
+PharmaHub03,Thailand,Pharma Distribution,B-ready,78/100,100%,Trung binh,,Tiep can sau nhom A,78/100 (coverage 100%)
+ConstructionOne44,Vietnam,Construction,B-ready,77/100,78%,Trung binh,"A3a, B1, C2",Tiep can sau nhom A,77/100 (coverage 78%)
+HRCore14,Thailand,HR Tech,B-ready,76/100,100%,Trung binh,,Tiep can sau nhom A,76/100 (coverage 100%)
+AccountingOne41,Vietnam,Accounting,B-ready,75/100,65%,Trung binh,"A3a, A3b, A4, B1, B4, C2",Tiep can sau nhom A,75/100 (coverage 65%)
+LogisticsPro17,Vietnam,Logistics,B-ready,75/100,100%,Trung binh,,Tiep can sau nhom A,75/100 (coverage 100%)
+LogisticsHub23,Thailand,Logistics,B-ready,74/100,97%,Trung binh,A3b,Tiep can sau nhom A,74/100 (coverage 97%)
+GovernmentSoft29,Vietnam,Government,B-ready,74/100,100%,Trung binh,,Tiep can sau nhom A,74/100 (coverage 100%)
+AccountingHub32,Indonesia,Accounting,B-ready,74/100,100%,Trung binh,,Tiep can sau nhom A,74/100 (coverage 100%)
+HealthcareSys20,Indonesia,Healthcare,B-ready,73/100,100%,Trung binh,,Tiep can sau nhom A,73/100 (coverage 100%)
+ConstructionPro02,Thailand,Construction,B-ready,71/100,90%,Trung binh,B1,Tiep can sau nhom A,71/100 (coverage 90%)
+RealPro10,Singapore,Real Estate,B-ready,71/100,100%,Trung binh,,Tiep can sau nhom A,71/100 (coverage 100%)
+LogisticsOne28,Vietnam,Logistics,B-ready,71/100,100%,Trung binh,,Tiep can sau nhom A,71/100 (coverage 100%)
+F&BFlow13,Vietnam,F&B,B-ready,71/100,85%,Trung binh,"B4, C2",Tiep can sau nhom A,71/100 (coverage 85%)
+EducationPro26,Vietnam,Education,B-ready,71/100,95%,Trung binh,A4,Tiep can sau nhom A,71/100 (coverage 95%)
+AccountingOne21,Singapore,Accounting,B-ready,69/100,100%,Trung binh,,Tiep can sau nhom A,69/100 (coverage 100%)
+HRSys08,Singapore,HR Tech,B-ready,66/100,100%,Trung binh,,Tiep can sau nhom A,66/100 (coverage 100%)
+DentalFlow55,Singapore,Dental,B-ready,66/100,67%,Trung binh,"A3b, B2, B3",Tiep can sau nhom A,66/100 (coverage 67%)
+PharmaSoft30,Vietnam,Pharma Distribution,B-ready,65/100,97%,Trung binh,A3b,Tiep can sau nhom A,65/100 (coverage 97%)
+AccountingCore19,Malaysia,Accounting,B-ready,64/100,98%,Trung binh,A3a,Tiep can sau nhom A,64/100 (coverage 98%)
+GovernmentOne27,Indonesia,Government,B-ready,64/100,100%,Trung binh,,Tiep can sau nhom A,64/100 (coverage 100%)
+HealthcareOne31,Thailand,Healthcare,B-ready,64/100,100%,Trung binh,,Tiep can sau nhom A,64/100 (coverage 100%)
+PharmaSys06,Philippines,Pharma Distribution,B-ready,62/100,90%,Trung binh,C2,Tiep can sau nhom A,62/100 (coverage 90%)
+HealthcareCore36,Vietnam,Healthcare,B-ready,60/100,75%,Trung binh,"A3a, A3b, A4, B4, C2",Tiep can sau nhom A,60/100 (coverage 75%)
+PharmaOne37,Vietnam,Pharma Distribution,B-enrich,priority 0.64,60%,Thap,"B1, B3, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.64 (density 98% x resolv 65%)
+LogisticsHub35,Vietnam,Logistics,B-enrich,priority 0.59,60%,Thap,"A3a, A3b, A4, B2, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.59 (density 95% x resolv 62%)
+InsuranceHub45,Vietnam,Insurance,B-enrich,priority 0.50,62%,Thap,"A3b, A4, B3, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.50 (density 92% x resolv 54%)
+InsuranceFlow34,Vietnam,Insurance,B-enrich,priority 0.49,63%,Thap,"A3a, A4, B2, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.49 (density 75% x resolv 66%)
+LegalSys52,Singapore,Legal,B-enrich,priority 0.48,40%,Thap,"A4, B1, B2, B3, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.48 (density 90% x resolv 53%)
+AccountingCore49,Singapore,Accounting,B-enrich,priority 0.46,55%,Thap,"B2, B3, B4, C2",BD lien he truc tiep,"FLAG 'BD hoi truc tiep' (density 96%, kho tra) | priority 0.46"
+ManufacturingSoft50,Singapore,Manufacturing,B-enrich,priority 0.44,55%,Thap,"B2, B3, B4, C2",BD lien he truc tiep,"FLAG 'BD hoi truc tiep' (density 93%, kho tra) | priority 0.44"
+AgriculturePro54,Singapore,Agriculture,B-enrich,priority 0.43,45%,Thap,"B1, B2, B3, B4, C2",Giau hoa du lieu (Enrichment),enrich priority 0.43 (density 82% x resolv 52%)
+AccountingSys53,Singapore,Accounting,B-enrich,priority 0.41,55%,Thap,"B2, B3, B4, C2",BD lien he truc tiep,"FLAG 'BD hoi truc tiep' (density 85%, kho tra) | priority 0.41"
+AgricultureSys47,Singapore,Agriculture,B-enrich,priority 0.40,55%,Thap,"B2, B3, B4, C2",BD lien he truc tiep,"FLAG 'BD hoi truc tiep' (density 84%, kho tra) | priority 0.40"
+EducationCore39,Vietnam,Education,C,59/100,68%,Trung binh,"A3a, A4, B1, B4, C2",Luu tru / Staged,59/100 — thap ngay ca tren phan da biet
+HorizontalSoft79,Vietnam,Horizontal utility,C,58/100,65%,Trung binh,"A4, B2, B4, C2",Luu tru / Staged,58/100 — thap ngay ca tren phan da biet
+PharmaCore22,Vietnam,Pharma Distribution,C,57/100,100%,Trung binh,,Luu tru / Staged,57/100 — thap ngay ca tren phan da biet
+HorizontalOne80,Philippines,Horizontal utility,C,57/100,53%,Thap,"A3a, B2, B3, B4, C2",Luu tru / Staged,B-enrich gac lai: ceiling 77 < 80
+HorizontalFlow78,Vietnam,Horizontal utility,C,54/100,63%,Thap,"A3a, A4, B3, B4, C2",Luu tru / Staged,B-enrich gac lai: ceiling 71 < 80
+ManufacturingSoft24,Vietnam,Manufacturing,C,54/100,97%,Trung binh,A3b,Luu tru / Staged,54/100 — thap ngay ca tren phan da biet
+HorizontalFlow75,Singapore,Horizontal utility,C,52/100,60%,Thap,"A3a, A3b, A4, B3, B4, C2",Luu tru / Staged,B-enrich gac lai: ceiling 71 < 80
+HorizontalHub77,Malaysia,Horizontal utility,C,51/100,45%,Thap,"A3a, A3b, A4, B2, B3, B4, C2",Luu tru / Staged,B-enrich gac lai: ceiling 78 < 80
+HorizontalPlus76,Malaysia,Horizontal utility,C,46/100,48%,Thap,"A3a, A4, B2, B3, B4, C2",Luu tru / Staged,B-enrich gac lai: ceiling 74 < 80
+ConsumerSoft57,Vietnam,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerPlus58,Vietnam,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerOne59,Indonesia,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerSys60,Malaysia,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerFlow61,Indonesia,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerPro62,Indonesia,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerSoft63,Thailand,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+ConsumerHub64,Indonesia,Consumer,C,,,,,Loai Tang 1,1a: la B2C
+InsuranceSoft65,Vietnam,Insurance,C,,,,,Loai Tang 1,1a: moi 3 nam (<5)
+AgricultureOne66,Vietnam,Agriculture,C,,,,,Loai Tang 1,1a: moi 2 nam (<5)
+AgriculturePro67,Indonesia,Agriculture,C,,,,,Loai Tang 1,1a: moi 2 nam (<5)
+PharmaSoft68,Indonesia,Pharma Distribution,C,,,,,Loai Tang 1,1a: moi 3 nam (<5)
+HRHub69,Malaysia,HR Tech,C,,,,,Loai Tang 1,1a: moi 3 nam (<5)
+HRCore70,Thailand,HR Tech,C,,,,,Loai Tang 1,1a: moi 3 nam (<5)
+AccountingCore71,Vietnam,Accounting,C,,,,,Loai Tang 1,1a: khong phai software
+AccountingPlus72,Singapore,Accounting,C,,,,,Loai Tang 1,1a: khong phai software
+EducationPlus73,Vietnam,Education,C,,,,,Loai Tang 1,1a: khong phai software
+EducationHub74,Philippines,Education,C,,,,,Loai Tang 1,1a: khong phai software
