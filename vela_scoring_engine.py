@@ -667,7 +667,18 @@ def claude_extract_signals(company_text):
                  "anthropic-version": "2023-06-01", "content-type": "application/json"})
     with urllib.request.urlopen(req) as resp:
         data = json.loads(resp.read())
-    text = "".join(b["text"] for b in data["content"] if b["type"]=="text")
+    text = "".join(b["text"] for b in data["content"] if b["type"]=="text").strip()
+    # Lam sach output LLM truoc khi parse (LLM hay boc JSON trong ```json ... ```)
+    if text.startswith("```"):
+        text = text.strip("`")
+        if "\n" in text:                       # bo nhan ngon ngu o dong dau (vd: json)
+            first, rest = text.split("\n", 1)
+            if first.strip().lower() in ("json", ""):
+                text = rest
+    if not text.lstrip().startswith("{"):       # trich phan {...} cho chac
+        i, j = text.find("{"), text.rfind("}")
+        if i != -1 and j != -1:
+            text = text[i:j+1]
     raw = json.loads(text)
     # Ep dung dinh dang + bat loi neu LLM tra sai schema
     return CompanySignals(**raw) if PYDANTIC_OK else raw
